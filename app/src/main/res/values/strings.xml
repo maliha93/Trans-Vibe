@@ -15,4 +15,5 @@
     <string-array name="tension_options">
         <item>Newton</item>
     </string-array>
+    <string name="title_activity_starting_screen">starting_screen</string>
 </resources>
